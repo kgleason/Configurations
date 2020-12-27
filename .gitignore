@@ -39,3 +39,4 @@ applet/
 
 # System files
 .DS_Store
+.pio
