@@ -36,3 +36,4 @@ applet/
 *.exe
 *.out
 *.app
+.pio
